@@ -4,4 +4,8 @@ Self Learning project.
 
 Sample implementation of React Native
 
-![](screenshots/cart_1)
+Resource: Dibble
+![](screenshots/cart_1.jpg)
+
+This Application:
+![](screenshots/graphic.gif)
