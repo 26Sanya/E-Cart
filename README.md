@@ -4,4 +4,4 @@ Self Learning project.
 
 Sample implementation of React Native
 
-![]{screenshots/cart_1}
+![](screenshots/cart_1)
